@@ -1,6 +1,5 @@
 vless://2aaa55ca-77ff-4589-b26f-5f087f4aee5b@rita.sabzipolobamahi.shop:8888?type=tcp&security=reality&fp=firefox&pbk=SasN-2W5mqT4XjUMcLTvb8lspLcjVvHpD4WDZPoXTlk&sni=zula.ir&flow=xtls-rprx-vision&sid=dc186c9c&spx=%2F#USA%20-%20Hetzner-1008-1
 vless://77ce78eb-f1a0-4862-f99a-2d995563714b@rita.sabzipolobamahi.shop:8889?type=tcp&security=reality&fp=firefox&pbk=R0NcSTVqp_5jXyjkINvN6-XvUa2_Q5RnDEDdPjkxpAE&sni=ftp.debian.org&flow=xtls-rprx-vision&sid=d745e4bf&spx=%2F#USA-Hetzner-1008-1qweqwe
-spx=%2F#Ireland%20-%20Amazon-1008-1qweqwe
 vless://6c81a79a-605e-4a3d-cc8a-bb14d284b2c6@adderall.sabzipolobamahi.shop:8888?type=tcp&security=reality&fp=firefox&pbk=UvjXCWuO4L1su8Q_CTLPjCY74ypQhtaY0pWrMG49O30&sni=zula.ir&flow=xtls-rprx-vision&sid=f25cf674&spx=%2F#Germany%20-%20Hetzner-1008-1
 vless://d50153c1-0edc-4ae3-f067-bd4021fd5f0c@adderall.sabzipolobamahi.shop:8889?type=tcp&security=reality&fp=firefox&pbk=VNZRopa9cpI1vj7XQi8oC-Gsn2V7k4iswashWDglcx0&sni=github.io&flow=xtls-rprx-vision&sid=98d78101&spx=%2F#Germany%20-%20Hetzner-1008-1qweqwe
 vless://cab9d376-51b7-4310-a197-4a6efeacb946@mast.adaspolo.shop:8888?type=tcp&security=reality&fp=firefox&pbk=4rJYBZAIJBsSJ-Vj6Uir0gzgLp17G1IJIFR2C0n0fFk&sni=zula.ir&flow=xtls-rprx-vision&sid=c98ac063&spx=%2F#Ireland%20-%20Amazon-1008-1
